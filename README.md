@@ -12,3 +12,6 @@
 step值为查询监控数值每几秒统计一次；
 
 Prometheus服务端地址固定不用更改；
+![image](https://user-images.githubusercontent.com/18591933/142213364-60332a77-ce57-492a-bef4-b8a2b45bd3ab.png)
+
+
